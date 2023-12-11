@@ -9,7 +9,3 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
-
-Matt is making changes, he's okay when he knows what he's doing.
-
-Matt's making even more changes - this is ***really*** ill-advised.
