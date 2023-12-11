@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+sasha's bitching data portfolio
+
+```{r}
+1 + 1
+```
