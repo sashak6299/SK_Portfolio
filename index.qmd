@@ -13,6 +13,6 @@ title-block-banner: true
 
 # Welcome. 
 
-## My name is Sasha Klein. I'm a data analyst based in Washington, DC. I have advanced experience with R, effectively creating a diverse array of visializations to interpret data. 
+My name is Sasha Klein. I'm a data analyst based in Washington, DC. I have advanced experience with R, effectively creating a diverse array of visializations to interpret data.
 
-## I'm passionate about applying these modeling and visualization skills to environmental and sustainability focused work.
+I'm passionate about applying these modeling and visualization skills to environmental and sustainability focused work.
