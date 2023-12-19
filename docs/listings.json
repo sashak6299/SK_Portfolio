@@ -1,7 +1,9 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/projects/projects.html"
+    ]
   },
   {
     "listing": "/about.html",
