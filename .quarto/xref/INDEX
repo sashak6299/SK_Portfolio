@@ -16,5 +16,11 @@
   },
   "posts/post_1/post_1.qmd": {
     "post_1.html": "f175bda0"
+  },
+  "projects/project 1/project1.qmd": {
+    "project1.html": "63f4e0dc"
+  },
+  "projects/projects.qmd": {
+    "projects.html": "048d4e39"
   }
 }

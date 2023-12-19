@@ -1,0 +1,24 @@
+---
+"title": "Elephant Browsing and Plant Mortality"
+listing:
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true"
+---
+
+## Project Goal
+
+The project aimed to explore and visualize environmental data related to biomass loss attributed to elephants and other disturbances in plant populations. It involves various tasks like creating new columns, filtering and visualizing data through histograms, scatterplots, bar plots, and predictive modeling. The goal is to understand relationships between elephant density, age categories, biomass loss, and probabilities of significant biomass loss due to disturbances, providing insights into ecological impacts.
+
+## Methods
+
+The project takes original environmental data collected in the field and transforms that data into usable forms and outputs for conservation and sustainability. This project follows the workflow that is used to craft analyses that can be published in reports or peer-reviewed publications. Further, it focuses on visualizing data from a study on elephant browsing and plant mortality in semi- arid regions of Namibia (Kindermann et al., 2022)
+
+## Outputs
+
+![The visualization presents a boxplot showing the distribution of response percentages across different Elephant Density levels, complemented by overlaid jitter points denoting the mean percent proportion loss due to any disturbance across these densities categorized by age. The boxplot offers insight into response variability, while the jittered points highlight the average proportion loss, providing a comparative view based on Elephant Density and Age Category. The plot aims to reveal potential correlations between Elephant Density, response variation, and disturbance-induced losses among different age groups.](Part3Plot.jpg){fig-align="center"}
+
+![The Sankey diagram visualizes the flow of biomass proportions across different vegetation types, ages of vegetation, elephant densities, and types of disturbances. It illustrates how biomass distribution changes among savanna and woodland, various age categories, elephant densities, and the relative impact of disturbances like elephants, fire, woodcutting, browsers, abiotic factors, and other unidentified influences on the ecosystem's biomass loss. The diagram's nodes and flows showcase the proportional distribution and shifts of biomass among these categories, providing an overview of their interrelationships and impacts within the ecosystem.](Elephant_Sankey_.jpg){fig-align="center"}
