@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: projects.qmd
+      - href: https://sashak6299.github.io/sashak6299/projects/projects.html
         text: Projects
 
 format:
