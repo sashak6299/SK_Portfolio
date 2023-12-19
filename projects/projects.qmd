@@ -4,9 +4,9 @@ listing:
   contents: projects
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
-page-layout: article
+page-layout: full
 title-block-banner: false
 ---
