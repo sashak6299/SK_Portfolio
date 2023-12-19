@@ -3,15 +3,15 @@
     "listing": "/index.html",
     "items": [
       "/projects/projects.html",
-      "/projects/project 1/project1.html",
-      "/about.html"
+      "/projects/project 1/project1.html"
     ]
   },
   {
     "listing": "/about.html",
     "items": [
-      "/index.html",
-      "/projects.html"
+      "/projects/project 1/project1.html",
+      "/projects/projects.html",
+      "/index.html"
     ]
   },
   {
@@ -20,6 +20,8 @@
   },
   {
     "listing": "/projects/projects.html",
-    "items": []
+    "items": [
+      "/projects/project 1/project1.html"
+    ]
   }
 ]

@@ -5,8 +5,8 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: false
+#page-layout: full
+# title-block-banner: false
 ---
 
 ## Project Goal
