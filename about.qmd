@@ -1,5 +1,12 @@
 ---
 title: "About"
+listing:
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
 ![](posts/post_1/profile.jpeg){fig-align="center"}
