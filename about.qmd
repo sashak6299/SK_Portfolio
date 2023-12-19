@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-Testing 123
+![](posts/post_1/profile.jpeg){fig-align="center"}
 
-```{r}
-1 + 1
-```
+Hello there! I'm Sasha, a current Master's student of Environment & Sustainability Management at Georgetown University, McDonough School of Business. Since beginning this program, I discovered an unexpected passion for data modeling and visualizations.
+
+My strength lies in simplifying complex data into understandable visuals---a skill I'm continually refining through a dedication to learning and adopting the latest methods.
+
+My data analysis journey is propelled by a mission to merge data modeling with environmental sustainability. I aim to develop data-driven solutions addressing significant environmental challenges, intending to communicate these insights effectively to prompt policy and behavioral changes towards sustainability.
+
+Moreover, my focus includes extensive research into the impacts of climate change, exploring mitigation strategies through data modeling and visualization. My goal is to render scientific information accessible to diverse audiences, empowering action across communities and stakeholders.
+
+Hailing from the US Virgin Islands, firsthand experiences with the effects of anthropogenic climate change fuel my unwavering commitment to making a genuine impact. Beyond my professional work, you can find me reading at coffeeshops, running, spendng time with my dog, and cooking.
