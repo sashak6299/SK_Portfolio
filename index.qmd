@@ -1,17 +1,18 @@
 ---
 title: "Sasha Klein's Portfolio"
-listing:
-  contents: projects
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
+
+#listing:
+#  contents: projects
+#  sort: "date desc"
+#  type: default
+#  categories: false
+#  sort-ui: false
+#  filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
 
-# Welcome. 
+# Welcome.
 
 My name is Sasha Klein. I'm a data analyst based in Washington, DC. I have advanced experience with R, effectively creating a diverse array of visualizations to interpret data.
 
