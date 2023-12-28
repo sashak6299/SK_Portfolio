@@ -22,3 +22,7 @@ The project takes original environmental data collected in the field and transfo
 ![The visualization presents a boxplot showing the distribution of response percentages across different Elephant Density levels, complemented by overlaid jitter points denoting the mean percent proportion loss due to any disturbance across these densities categorized by age. The boxplot offers insight into response variability, while the jittered points highlight the average proportion loss, providing a comparative view based on Elephant Density and Age Category. The plot aims to reveal potential correlations between Elephant Density, response variation, and disturbance-induced losses among different age groups.](Part3Plot.jpg){fig-align="center"}
 
 ![The Sankey diagram visualizes the flow of biomass proportions across different vegetation types, ages of vegetation, elephant densities, and types of disturbances. It illustrates how biomass distribution changes among savanna and woodland, various age categories, elephant densities, and the relative impact of disturbances like elephants, fire, woodcutting, browsers, abiotic factors, and other unidentified influences on the ecosystem's biomass loss. The diagram's nodes and flows showcase the proportional distribution and shifts of biomass among these categories, providing an overview of their interrelationships and impacts within the ecosystem.](Elephant_Sankey_.jpg){fig-align="center"}
+
+[^1]
+
+[^1]: But matt totally made this up and can't spell and is getting side-tracked

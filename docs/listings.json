@@ -23,5 +23,11 @@
     "items": [
       "/projects/project 1/project1.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/project 1/project1.html"
+    ]
   }
 ]

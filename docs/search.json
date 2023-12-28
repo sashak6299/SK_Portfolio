@@ -31,15 +31,15 @@
     "objectID": "projects/project 1/project1.html#methods",
     "href": "projects/project 1/project1.html#methods",
     "title": "Elephant Browsing and Plant Mortality",
-    "section": "Methods",
-    "text": "Methods\nThe project takes original environmental data collected in the field and transforms that data into usable forms and outputs for conservation and sustainability. This project follows the workflow that is used to craft analyses that can be published in reports or peer-reviewed publications. Further, it focuses on visualizing data from a study on elephant browsing and plant mortality in semi- arid regions of Namibia (Kindermann et al., 2022)"
+    "section": "0.2 Methods",
+    "text": "0.2 Methods\nThe project takes original environmental data collected in the field and transforms that data into usable forms and outputs for conservation and sustainability. This project follows the workflow that is used to craft analyses that can be published in reports or peer-reviewed publications. Further, it focuses on visualizing data from a study on elephant browsing and plant mortality in semi- arid regions of Namibia (Kindermann et al., 2022)"
   },
   {
     "objectID": "projects/project 1/project1.html#outputs",
     "href": "projects/project 1/project1.html#outputs",
     "title": "Elephant Browsing and Plant Mortality",
-    "section": "Outputs",
-    "text": "Outputs\n\n\n\nThe visualization presents a boxplot showing the distribution of response percentages across different Elephant Density levels, complemented by overlaid jitter points denoting the mean percent proportion loss due to any disturbance across these densities categorized by age. The boxplot offers insight into response variability, while the jittered points highlight the average proportion loss, providing a comparative view based on Elephant Density and Age Category. The plot aims to reveal potential correlations between Elephant Density, response variation, and disturbance-induced losses among different age groups.\n\n\n\n\n\nThe Sankey diagram visualizes the flow of biomass proportions across different vegetation types, ages of vegetation, elephant densities, and types of disturbances. It illustrates how biomass distribution changes among savanna and woodland, various age categories, elephant densities, and the relative impact of disturbances like elephants, fire, woodcutting, browsers, abiotic factors, and other unidentified influences on the ecosystem’s biomass loss. The diagram’s nodes and flows showcase the proportional distribution and shifts of biomass among these categories, providing an overview of their interrelationships and impacts within the ecosystem."
+    "section": "0.3 Outputs",
+    "text": "0.3 Outputs\n\n\n\nThe visualization presents a boxplot showing the distribution of response percentages across different Elephant Density levels, complemented by overlaid jitter points denoting the mean percent proportion loss due to any disturbance across these densities categorized by age. The boxplot offers insight into response variability, while the jittered points highlight the average proportion loss, providing a comparative view based on Elephant Density and Age Category. The plot aims to reveal potential correlations between Elephant Density, response variation, and disturbance-induced losses among different age groups.\n\n\n\n\n\nThe Sankey diagram visualizes the flow of biomass proportions across different vegetation types, ages of vegetation, elephant densities, and types of disturbances. It illustrates how biomass distribution changes among savanna and woodland, various age categories, elephant densities, and the relative impact of disturbances like elephants, fire, woodcutting, browsers, abiotic factors, and other unidentified influences on the ecosystem’s biomass loss. The diagram’s nodes and flows showcase the proportional distribution and shifts of biomass among these categories, providing an overview of their interrelationships and impacts within the ecosystem.\n\n\n1"
   },
   {
     "objectID": "projects/projects.html",
@@ -47,5 +47,19 @@
     "title": "Projects",
     "section": "",
     "text": "Elephant Browsing and Plant Mortality\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Elephant Browsing and Plant Mortality\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project 1/project1.html#footnotes",
+    "href": "projects/project 1/project1.html#footnotes",
+    "title": "Elephant Browsing and Plant Mortality",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBut matt totally made this up and can’t spell and is getting side-tracked↩︎"
   }
 ]
