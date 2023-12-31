@@ -27,7 +27,12 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/project 1/project1.html"
+      "/projects/project 1/project1.html",
+      "/projects/project 2/project2.html"
     ]
+  },
+  {
+    "listing": "/projects/project 2/project2.html",
+    "items": []
   }
 ]

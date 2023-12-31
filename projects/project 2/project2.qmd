@@ -1,0 +1,22 @@
+---
+"title": "Impacts of Climate Disturbances on Coral Reefs"
+listing:
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+## Project Goal
+
+Our aim is to understand the global influence of different climate disturbances on coral coverage around the world.  To craft our visualization, we're drawing from a comprehensive study that compiled research findings on coral cover loss worldwide (Cresswell et al., 2023). Our goal is to capture and illustrate the intricate relationship between climate-induced changes and their impact on coral ecosystems across diverse regions.
+
+## Methods
+
+We produced our visualizations based on a data set about global coral cover before and after certain disturbances such as storms and cyclones, temperature stress and coastal run-off from flooding. We worked on a linear regression and arrived at a final model where the response variable, Impact, depended upon the longitude interacting with disturbance type, the disturbance year and the mean of the coral coverage before the disturbance
+
+## Outputs
+
+The visualization illustrates global impacts on corals categorized by different disturbance types using a bubble map overlaying coral sites across longitude and latitude coordinates. Each bubble's size and color denote the magnitude and variation of disturbances across geographical locations and types.
