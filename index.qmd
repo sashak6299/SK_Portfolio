@@ -14,8 +14,6 @@ title-block-banner: true
 
 # Welcome!
 
-![](images/Klein_Sasha.JPG){fig-align="center"}
-
 Hello there! I'm Sasha, a current Master's student of Environment & Sustainability Management at Georgetown University, McDonough School of Business. Since beginning this program, I discovered an unexpected passion for data modeling and visualizations.
 
 My strength lies in simplifying complex data into understandable visuals---a skill I'm continually refining through a dedication to learning and adopting the latest methods.
