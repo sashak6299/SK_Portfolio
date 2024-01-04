@@ -19,4 +19,6 @@ We produced our visualizations based on a data set about global coral cover befo
 
 ## Outputs
 
+![](images/BubbleMap.jpg){fig-align="center"}
+
 The visualization illustrates global impacts on corals categorized by different disturbance types using a bubble map overlaying coral sites across longitude and latitude coordinates. Each bubble's size and color denote the magnitude and variation of disturbances across geographical locations and types.
